@@ -65,4 +65,5 @@
 .markdown-preview-view td,
 .markdown-preview-view pre {
   border: 0.5px solid hsl(218, 50%, 95%) !important;
+  color: #555c68;
 }
