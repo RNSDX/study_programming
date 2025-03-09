@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
+
 int main(void) {
     int **mx = NULL;
     int h = 4;

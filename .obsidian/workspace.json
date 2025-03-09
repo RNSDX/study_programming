@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "40f8a2844f7a790d",
+    "type": "split",
+    "children": [
+      {
+        "id": "85a65a20d42262d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47b68b7473ca6a24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lab_2/lab_2_Sudarchikov_Yan_IVT2_gr2_subgr3.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lab_2_Sudarchikov_Yan_IVT2_gr2_subgr3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1dce38c1c52ee7e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c2df98cdc70dbf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "221f9f0d94b70ada",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5b22457125eed47e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ce01c15a9a52fc4b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a49bc98ea5be002e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad5343f25900019f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fdd43d7354aacc3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "lab_2/lab_2_Sudarchikov_Yan_IVT2_gr2_subgr3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for lab_2_Sudarchikov_Yan_IVT2_gr2_subgr3"
+            }
+          },
+          {
+            "id": "3cf70462484299a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "lab_2/lab_2_Sudarchikov_Yan_IVT2_gr2_subgr3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from lab_2_Sudarchikov_Yan_IVT2_gr2_subgr3"
+            }
+          },
+          {
+            "id": "2810ff6ec6ee86f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1cdea9fd14803c59",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "lab_2/lab_2_Sudarchikov_Yan_IVT2_gr2_subgr3.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of lab_2_Sudarchikov_Yan_IVT2_gr2_subgr3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "221f9f0d94b70ada",
+  "lastOpenFiles": [
+    "lab_2/lab_2_Sudarchikov_Yan_IVT2_gr2_subgr3.md",
+    "lab_2/Images/Screenshot 2025-03-09 at 17.10.43.png",
+    "lab_2/Images",
+    "Screenshot 2025-03-09 at 17.06.39.png",
+    "lab_BLANK_Sudarchikov_Yan_IVT2_gr2_subgr3.md",
+    "lab_1/lab_1_Sudarchikov_Yan_IVT2_gr2_subgr3.pdf",
+    "lab_2/lab_2_Sudarchikov_Yan_IVT2_gr2_subgr3.pdf",
+    "lab_1/lab_1_Sudarchikov_Yan_IVT2_gr2_subgr3.pages.sb-0e118fa8-ZtyxFb"
+  ]
+}
