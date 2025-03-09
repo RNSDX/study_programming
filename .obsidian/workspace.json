@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab_2/lab_2_Sudarchikov_Yan_IVT2_gr2_subgr3.md",
+                "file": "lab_2/Лабораторная работа №2.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lab_2_Sudarchikov_Yan_IVT2_gr2_subgr3"
+              "title": "Лабораторная работа №2"
             }
           }
         ]
@@ -165,18 +165,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "221f9f0d94b70ada",
+  "active": "47b68b7473ca6a24",
   "lastOpenFiles": [
-    "lab_2/lab_2_Sudarchikov_Yan_IVT2_gr2_subgr3.md",
+    "lab_2/Trash/Лабораторная работа №2_monochrome.pdf",
+    "lab_2/Trash",
+    "lab_2/untitled folder",
+    "lab_2/lab_2_Sudarchikov_Yan_IVT2_gr2_subgr3.pdf",
+    "lab_2/Лабораторная работа №2_monochrome.pdf",
+    "lab_2/Лабораторная работа №2.pdf",
+    "lab_2/2.pdf",
     "lab_2/Images/Screenshot 2025-03-09 at 17.10.43.png",
+    "lab_2/Лабораторная работа №2.md",
     "lab_2/Images",
     "Screenshot 2025-03-09 at 17.06.39.png",
     "lab_BLANK_Sudarchikov_Yan_IVT2_gr2_subgr3.md",
     "lab_1/lab_1_Sudarchikov_Yan_IVT2_gr2_subgr3.pdf",
-    "lab_2/lab_2_Sudarchikov_Yan_IVT2_gr2_subgr3.pdf",
     "lab_1/lab_1_Sudarchikov_Yan_IVT2_gr2_subgr3.pages.sb-0e118fa8-ZtyxFb"
   ]
 }

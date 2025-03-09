@@ -1,10 +1,13 @@
+.markdown-preview-view h1 {
+  color: hsl(218, 40%, 47%);
+}
 
 .markdown-preview-view h2 {
   position: relative;
   padding-left: 20px;
   padding-top: 10px;
   padding-bottom: 5px;
-  color: #476aa7;
+  color: hsl(218, 40%, 47%);
   font-style: italic;
 }
 
@@ -28,28 +31,38 @@
 
 
 .markdown-preview-view {
+  background-color: hsl(0, 0%, 100%);
   color: hsl(218, 33%, 18%);
 }
 
 
-/* Изменяем фон и цвет текста заголовка таблицы */
-.markdown-preview-view table thead tr {
-  background-color: hsl(218, 30%, 96%);
-}
-
-.markdown-preview-view table {
-  border-collapse: collapse;
-  border: 0.5px solid hsl(222, 6%, 34%);
-}
-
+/* Задаем текст для всех элементов таблиц и кода */
+.markdown-preview-view table,
 .markdown-preview-view th,
-.markdown-preview-view td {
-  border: 0.5px solid hsl(222, 6%, 34%) !important;
+.markdown-preview-view td,
+.markdown-preview-view pre,
+.markdown-preview-view code {
+  color: hsl(218, 33%, 18%) !important;
 }
 
+/* Задаем фон для таблиц, заголовков таблиц и блоков кода */
+.markdown-preview-view table,
+.markdown-preview-view thead tr,
+.markdown-preview-view pre,
+.markdown-preview-view code {
+  background-color: hsl(218, 45%, 99%);
+}
 
-/* Стилизация блока кода */
+/* Фон для заголовка таблицы – такой же, как обводка */
+.markdown-preview-view thead tr,
+.markdown-preview-view thead th {
+  background-color: hsl(218, 60%, 97%) !important;
+}
+
+/* Задаем обводку для таблиц, ячеек таблиц и блоков кода */
+.markdown-preview-view table,
+.markdown-preview-view th,
+.markdown-preview-view td,
 .markdown-preview-view pre {
-  background-color: hsl(218, 25%, 98%);
-  border: 0.5px solid hsl(222, 6%, 34%);
+  border: 0.5px solid hsl(218, 50%, 95%) !important;
 }
