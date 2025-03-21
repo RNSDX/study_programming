@@ -46,5 +46,8 @@ int main(void) {
             printf(i == size - 1 ? "%.2f]\n\n" : "%.2f, ", pa[i].num.d);
 
 
+    // Освободим память
+    free(pa);
+    
     return 0;
 } 
