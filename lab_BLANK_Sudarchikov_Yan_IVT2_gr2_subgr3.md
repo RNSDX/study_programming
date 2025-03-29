@@ -22,5 +22,9 @@ int main() {
 }
 ```
 ### Результат работы программы
-![[Screenshot 2025-03-09 at 17.06.39.png]]
+```
+result
+```
+<div style="page-break-after: always;"></div>
+
 ## Задача 2
